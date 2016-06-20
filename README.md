@@ -1,2 +1,6 @@
-# playground
-testing playground
+# playground - start of file
+
+cubing()
+  #defile the function here
+  
+  
